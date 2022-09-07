@@ -18,4 +18,4 @@ data:
     # The password file.
     # Use the `mosquitto_passwd` utility.
     # If TLS is not compiled, plaintext "username:password" lines may be used
-    # password_file /mosquitto/config/passwd
+    # password_file /mosquitto/config/password_file.txt
